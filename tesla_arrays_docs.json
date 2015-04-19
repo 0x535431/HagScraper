@@ -1,0 +1,13 @@
+{
+  "assembly" : [
+    {
+      "country" : "United States",
+      "city" : "Fermont",
+      "state" : "California"
+    },
+    {
+      "country" : "The Netherlands",
+      "city" : "Tilburg"
+    }
+  ]
+}
